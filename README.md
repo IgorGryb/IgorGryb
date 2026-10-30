@@ -9,9 +9,9 @@
 I operate at the intersection of **private capital operations, corporate banking analysis, and applied systems architecture**. 
 My work translates complex asset, operating, financial, and regulatory conditions into verifiable, financing-aware, and governable decision models under uncertainty.
 
-- 🏦 **Corporate & Private Capital:** Asset inventory verification, cash/fund operations across a $150B AUM ecosystem at BNP Paribas CIB, debt capacity & credit structuring (min. PLN 1.2B EBITDA) at Santander CIB, and foundational corporate finance at SGH Warsaw School of Economics.
-- 📐 **Quantitative Methods & Systems Architecture:** MSc candidate in Quantitative Methods in Economics and Information Systems (SGH MIESI). Formal training and certifications in IBM Systems Analysis (Enterprise Architecture, SIPOC, DFD), Columbia University Financial Engineering (Real Options, Credit Derivatives), and Johns Hopkins Data Science.
-- 🔬 **Decision R&D & Venture Engineering:** Co-founder and systems architect of 4 proprietary technology prototypes across enterprise data provenance, industrial telemetry, AEC documentation governance, and transactional escrow engines.
+- **Corporate & Private Capital:** Asset inventory verification, cash/fund operations across a $150B AUM ecosystem at BNP Paribas CIB, debt capacity & credit structuring (min. PLN 1.2B EBITDA) at Santander CIB, and foundational corporate finance at SGH Warsaw School of Economics.
+- **Quantitative Methods & Systems Architecture:** MSc candidate in Quantitative Methods in Economics and Information Systems (SGH MIESI). Formal training and certifications in IBM Systems Analysis (Enterprise Architecture, SIPOC, DFD), Columbia University Financial Engineering (Real Options, Credit Derivatives), and Johns Hopkins Data Science.
+- **Decision R&D & Venture Engineering:** Co-founder and systems architect of 4 proprietary technology prototypes across enterprise data provenance, industrial telemetry, AEC documentation governance, and transactional escrow engines.
 
 ---
 
