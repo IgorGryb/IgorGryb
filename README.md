@@ -40,3 +40,4 @@ All repositories in this workspace are reproducible engineering decision models 
 
 ---
 *Direct Contact:* [i.grybek@gmail.com](mailto:i.grybek@gmail.com) | [linkedin.com/in/igor-grybek/](https://www.linkedin.com/in/igor-grybek/)
+
